@@ -1,0 +1,1 @@
+insert into user values(1,null,'mani','mani@gmail.com','2GhdU60wSrYYxKqGL+YedXzg3KG6E7JAy6k5PI9hPRM=','ROLE_ADMIN');
